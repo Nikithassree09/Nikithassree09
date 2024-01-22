@@ -10,12 +10,12 @@ Full Stack Solution Architect
 The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs), design (working closely with designers), front-end development (React, ReactJs, HTML5, CSS3, Javascript, Responsive, UX),database(MongoDB,Mysql)
 
 
-![Visitor Count](https://profile-counter.glitch.me/poonamchauhan229/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Nikithassree09/count.svg)
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">    
-    <img src="https://github-profile-trophy.vercel.app/?username=poonamchauhan229&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Nikithassree09&column=7"/>
   </a>
 </div>
 
