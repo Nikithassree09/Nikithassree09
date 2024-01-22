@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-nikithassree-red)](https://www.youtube.com/@h033nikithassreede3)
-[![Linkedin Badge](https://img.shields.io/badge/-Poonam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/poonam-chauhan-64a97159/)](https://www.linkedin.com/in/poonam-chauhan-64a97159/)
+[![Linkedin Badge](https://img.shields.io/badge/-Poonam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikithassree-devadas-7b7750259/)](www.linkedin.com/in/nikithassree-devadas-7b7750259)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Poonam-yellow)](https://stackoverflow.com/users/18828160/poonam-chauhan)
 [![Website Badge](https://img.shields.io/badge/WebSite-Nikithassree-green)](https://Nikithassree09.github.io/Portfolio_Website/)
 
