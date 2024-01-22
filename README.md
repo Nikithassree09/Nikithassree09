@@ -2,7 +2,7 @@
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-nikithassree-red)](https://www.youtube.com/@h033nikithassreede3)
 [![Linkedin Badge](www.linkedin.com/in/nikithassree-devadas-7b7750259)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Poonam-yellow)](https://stackoverflow.com/users/18828160/poonam-chauhan)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-nikithassree-yellow)](https://stackoverflow.com/users/18828160/nikithassree)
 [![Website Badge](https://img.shields.io/badge/WebSite-Nikithassree-green)](https://Nikithassree09.github.io/Portfolio_Website/)
 
 I'm
